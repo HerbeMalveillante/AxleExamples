@@ -1,0 +1,6 @@
+# Axle generated .gitignore
+
+bin/
+build/
+external/
+temp/

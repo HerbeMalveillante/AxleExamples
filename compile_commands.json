@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/pacomerenimel/Code/AxleExamples",
+    "command": "clang++ -Wall -Wextra -Wpedantic -std=c++20 -Iexternal/raylib/include -Iexternal/clay/include -Iinclude -MMD -MP -c src/main.cpp -o build/main.o",
+    "file": "src/main.cpp"
+  }
+]
